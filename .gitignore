@@ -19,3 +19,7 @@ venv/
 data/*
 !data/.gitkeep
 *.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
